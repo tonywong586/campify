@@ -17,8 +17,12 @@ Campify is an online e-commerce platform that allows users to browse, rent, or p
 ## Features
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730227543/u1hdcecjivkninl17ffz.png" alt="Features" width="550"/>
-  <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730228096/iz7nkkoqvsdtxmxfpf22.png" alt="Feature Image 1" width="250"/>
+  <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730227543/u1hdcecjivkninl17ffz.png" alt="Features" width="800"/>
+</div>
+
+<div align="center">
+  <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730228096/ch4kgdjqms6s8wcnf3cl.png" alt="Feature Image 1" width="250"/>
+  <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730228096/iz7nkkoqvsdtxmxfpf22.png" alt="Feature Image 2" width="250"/>
 </div>
 
 - **Interactive UI**: Built with React.js and optimized with Next.js for a smooth, dynamic user experience.
@@ -28,6 +32,7 @@ Campify is an online e-commerce platform that allows users to browse, rent, or p
 - **Flexible Renting Options**: Users can choose products for purchase or rent for specific periods.
 - **Scalable Media Storage**: Images and videos stored in Amazon S3, ensuring high availability and durability.
 - **Responsive Design**: Fully optimized for desktop and mobile users.
+- **Admin Panel**: Comprehensive admin dashboard to manage users, products, and orders. Admins can add, edit, or remove products, manage user accounts, and monitor order statuses. This helps streamline backend operations and ensures smooth platform management.
 
 ## Technologies Used
 
