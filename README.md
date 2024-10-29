@@ -16,7 +16,7 @@ Campify is an online e-commerce platform that allows users to browse, rent, or p
 
 ![Features](https://res.cloudinary.com/dasq4goqg/image/upload/v1730227543/u1hdcecjivkninl17ffz.png)
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+<div style="display: flex; width: 100%; gap: 10px; justify-content: center;">
   <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730228096/ch4kgdjqms6s8wcnf3cl.png" alt="Feature Image 1" width="250"/>
   <img src="https://res.cloudinary.com/dasq4goqg/image/upload/v1730228096/ch4kgdjqms6s8wcnf3cl.png" alt="Feature Image 2" width="250"/>
 </div>
