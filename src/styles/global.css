@@ -1,0 +1,58 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* src/ChatBot.css */
+.chatbot {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+}
+
+.chatbot-messages {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.chatbot-message {
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  border-radius: 5px;
+  line-height: 1.5;
+}
+
+.chatbot-message.user {
+  background-color: #3f7566;
+  color: white;
+  align-self: flex-end;
+}
+
+.chatbot-message.bot {
+  background-color: #f1f1f1;
+  color: #333;
+}
+
+.chatbot-input-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.bot-link {
+  color: #3f7566;
+  text-decoration: underline;
+}
